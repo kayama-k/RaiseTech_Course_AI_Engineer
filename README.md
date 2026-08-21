@@ -3,7 +3,7 @@ Task Management Project
 
 ## Task Board (トレロ風タスク管理アプリ)
 
-デスクトップのブラウザで使う、Trello風のタスク管理Webアプリです。
+デスクトップのブラウザで使う、Trello風のタスク管理Webアプリ(演習)です。
 
 詳細な要件は [docs/requirements.md](docs/requirements.md) を参照してください。
 

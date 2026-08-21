@@ -1,7 +1,7 @@
 # Task Board 要件定義書
 
 - 作成日: 2026-08-20
-- プロジェクト: task_management / Task Board(トレロ風タスク管理アプリ、RaiseTech_Course_AI_Engineer 演習)
+- プロジェクト: task_management / Task Board(トレロ風タスク管理アプリ、演習)
 
 ## 1. 概要
 
