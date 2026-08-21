@@ -1,5 +1,5 @@
 # task_management
-Task Management Project(RaiseTech_Course_AI_Engineer 演習)
+Task Management Project
 
 ## Task Board (トレロ風タスク管理アプリ)
 
